@@ -1,0 +1,69 @@
+{
+    "menu": {
+      "ru": [
+        {
+          "id": 1,
+          "name": "Шоколадный торт",
+          "price": "500₽",
+          "description": "Нежный шоколадный торт с орехами и кремом."
+        },
+        {
+          "id": 2,
+          "name": "Яблочный пирог",
+          "price": "300₽",
+          "description": "Домашний пирог с яблоками и корицей."
+        },
+        {
+          "id": 3,
+          "name": "Эклеры",
+          "price": "200₽",
+          "description": "Воздушные эклеры с ванильным кремом."
+        },
+        {
+          "id": 4,
+          "name": "Макаронсы",
+          "price": "400₽",
+          "description": "Французские макаронсы с разнообразными вкусами."
+        },
+        {
+          "id": 5,
+          "name": "Круассаны",
+          "price": "250₽",
+          "description": "Свежие круассаны с шоколадной начинкой."
+        }
+      ],
+      "en": [
+        {
+          "id": 1,
+          "name": "Chocolate Cake",
+          "price": "$5",
+          "description": "Delicate chocolate cake with nuts and cream."
+        },
+        {
+          "id": 2,
+          "name": "Apple Pie",
+          "price": "$3",
+          "description": "Homemade pie with apples and cinnamon."
+        },
+        {
+          "id": 3,
+          "name": "Eclairs",
+          "price": "$2",
+          "description": "Airy eclairs with vanilla cream."
+        },
+        {
+          "id": 4,
+          "name": "Macarons",
+          "price": "$4",
+          "description": "French macarons with a variety of flavors."
+        },
+        {
+          "id": 5,
+          "name": "Croissants",
+          "price": "$2.5",
+          "description": "Fresh croissants with chocolate filling."
+        }
+      ]
+    }
+  }
+  

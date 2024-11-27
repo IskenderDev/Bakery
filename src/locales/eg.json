@@ -1,0 +1,126 @@
+{
+"footer": {
+    "contact_us": "Contact Us",
+    "phone": "Phone",
+    "email": "Email",
+    "best_products": "The best confectionery products for you",
+    "explore": "Explore",
+    "home": "Home",
+    "about": "About Us",
+    "menu": "Menu",
+    "contact": "Contact",
+    "categories": "Categories",
+    "cakes": "Cakes",
+    "cookies": "Cookies",
+    "cupcakes": "Cupcakes",
+    "candies": "Candies",
+    "drinks": "Drinks",
+    "sweets": "Sweets",
+    "subscribe": "Subscribe to Us",
+    "subscribe_info": "Get exclusive offers and news!",
+    "enter_email": "Enter your email",
+    "subscribe_button": "Subscribe"
+  },
+
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "menu": "Menu",
+    "order": "Order"
+  },
+  "feedback": {
+    "title": "Customer Reviews",
+    "subTitle": "about the products",
+    "description": "There are many options that have evolved over time, sometimes by chance.",
+    "name": "Jenny Wilson",
+    "subtitle": "mother of three little angels",
+    "text": "“It was incredibly delicious! All the desserts are so refined and appetizing. I couldn't choose which one to try first. Every bite is a true masterpiece! I highly recommend it to everyone!”"
+  },
+  "courses": {
+    "title": "Our most popular",
+    "delicacies": "delicacies",
+    "description": "Dive into the world of sweet flavors and enjoy the most delicious confectionery!",
+    "1": {
+      "title": "Napoleon Cake"
+    },
+    "2": {
+      "title": "Cream Éclairs"
+    },
+    "3": {
+      "title": "Chocolate Cake"
+    },
+    "4": {
+      "title": "Berry Muffins"
+    },
+    "5": {
+      "title": "Honey Cake"
+    },
+    "6": {
+      "title": "Cheesecake"
+    },
+    "7": {
+      "title": "Lemon Tart"
+    }
+  },
+  "hero": {
+    "sweetSuccess": "SWEET SUCCESS",
+    "enjoy": "Enjoy more than",
+    "types": "types of desserts from the best",
+    "from": "bakers",
+    "bakers": "bakers",
+    "and": "and",
+    "confectioneries": "confectioneries",
+    "discover": "Discover our delicious offerings",
+    "sweetMoments": "and enjoy sweet moments!"
+  },
+  "categories": {
+    "title": "Our",
+    "subTitle": "delicious categories",
+    "description": "Discover a wide range of our delightful treats!",
+    "cake": "Cakes",
+    "iceCream": "Ice Cream",
+    "cookie": "Cookies",
+    "candy": "Candies",
+    "fruits": "Fruits",
+    "pizza": "Pizza",
+    "cupcake": "Cupcakes",
+    "donut": "Donuts"
+  },
+  "achievement": {
+    "title": "Our Achievements",
+    "subtitle": "The best pastry products that inspire!",
+    "professionalBakers": "Professional bakers",
+    "recipeVideos": "Recipe videos",
+    "happyClients": "Happy clients",
+    "workshopParticipants": "Workshop participants"
+  },
+  "cta": {
+    "title": "Join one of the best",
+    "highlight": "platforms for ordering",
+    "subtitle": "pastry products from around the world",
+    "description": "We offer sweets for every taste, with love and care for each client.",
+    "button": "Register for free"
+  },
+  "mainInfo": {
+    "title": "About Us",
+    "description": "We are a team of professionals who create the most delicious and beautiful desserts with great love and care. We create confectionery masterpieces full of flavors and vibrant tastes that delight both the eye and the palate.",
+    "aboutImageAlt": "Candy Collection",
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our main goal is to bring happiness and joy through tasty and high-quality confectionery. We create desserts suitable for all occasions — from celebrations to cozy family gatherings. We strive to ensure that every bite of our dessert leaves an indelible impression, giving positive emotions and delight. We believe that food is not just a way to satisfy hunger but a way to create memories that will stay with you for a long time."
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "We are a small but close-knit team of confectionery masters who work every day with love to give you unforgettable taste experiences. Each of us contributes uniquely to creating desserts. Our bakers, designers, and packagers work together as one big family to create not only delicious but also aesthetically pleasing products. We are proud of our team and how each of us strives for excellence in our work."
+    },
+    "teamImageAlt": "Our Team",
+    "quality": {
+      "title": "Quality and Care",
+      "description": "We use only fresh and natural ingredients to ensure our products are not only delicious but also safe for health. We carefully select suppliers and ensure the high quality of all our ingredients. All the products we use are certified and have passed strict safety checks. We care that every customer can enjoy not only the taste but also the safety of our desserts. We always keep up with current trends in the world of confectionery art and strive to introduce innovative approaches to ensure our product is not only tasty but also healthy."
+    },
+    "qualityImageAlt": "Product Quality"
+  },
+  "menu": {
+    "title": "Our Menu"
+  }
+}
